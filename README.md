@@ -4,5 +4,5 @@ this is test for study
 creating a new branch is quick AND simple
 =======
 creating a new branch is quick
-creating a new branch is quick AND simle
+creating a new branch is quick AND simple
 >>>>>>> feeaturel
